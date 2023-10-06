@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-/*This a a function to print a sentence*/
+/**
+ * main - prints a sentence
+ * Return 0 if exited properly
+*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
