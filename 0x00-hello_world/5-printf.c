@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main - print a sentence
  * Return: 0 if exited successfully
  */
