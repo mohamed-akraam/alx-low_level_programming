@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * print a sentence
+ * main - print a sentence
  * Return: 0 if exited successfully
  */
 int main(void)
